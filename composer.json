@@ -7,6 +7,10 @@
         }
     ],
     "require": {
-        "react/gifsocket": "dev-master"
-    }
+        "igorw/yolo": "dev-master",
+		"monolog/monolog": "1.5.*@dev",
+		"react/curry": "1.0.*@dev",
+		"react/gifsocket": "dev-master"
+    },
+    "minimum-stability": "alpha"
 }
