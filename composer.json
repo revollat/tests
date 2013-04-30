@@ -1,0 +1,12 @@
+{
+    "name": "orevollat/tests",
+    "authors": [
+        {
+            "name": "Olivier Revollat",
+            "email": "revollat@gmail.com"
+        }
+    ],
+    "require": {
+        "react/gifsocket": "dev-master"
+    }
+}
