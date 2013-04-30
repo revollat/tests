@@ -20,4 +20,4 @@ $app->get('/', function (Request $request) {
     return new Response("OK, ca marche !\n");
 });
 
-$app->run();
+$app->run(); // test

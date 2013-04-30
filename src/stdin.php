@@ -8,7 +8,7 @@ function createGifFrame(array $messages)
 
     imagefilledrectangle($im, 0, 0, 500, 400, 0x000000);
     foreach ($messages as $i => $message) {
-        imagestring($im, 3, 40, 20 + $i*20, $message, 0xFFFFFF);
+        imagestring($im, 3, 40, 20 + $i*20, $message, 0xFFFFFF); // autre test
     }
 
     ob_start();
