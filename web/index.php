@@ -17,7 +17,7 @@ $container = Yolo\createContainer(
 $app = new Yolo\Application($container);
 
 $app->get('/', function (Request $request) {
-    return new Response("Hallo welt, got swag yo!\n");
+    return new Response("OK, ca marche !\n");
 });
 
 $app->run();
