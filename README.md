@@ -5,4 +5,6 @@ Héhé OK
 
 modification à partir de test2
 
+ON est en MASTER
+
 OLIVIER
